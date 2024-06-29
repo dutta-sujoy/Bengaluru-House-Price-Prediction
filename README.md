@@ -67,6 +67,13 @@ The dataset used for this project is a comprehensive collection of housing data 
 
 The machine learning model used in this project is a Random Forest Regressor. The model is trained on the dataset to predict house prices based on the input features. The trained model is serialized and stored in `random_forest_house_price_model.pkl`.
 
+![Screenshot 2024-06-29 111415](https://github.com/dutta-sujoy/Bengaluru-House-Price-Prediction/assets/117010765/6c942892-0705-4597-8b06-e1671b0d61d3)
+
+![output](https://github.com/dutta-sujoy/Bengaluru-House-Price-Prediction/assets/117010765/2e379813-8224-4143-af21-411106957c26)
+
+
 ## Results
 
 The web application allows users to input the location, total square footage, number of bathrooms, and number of bedrooms to get a predicted house price in Bangalore. The predicted price is displayed in lakhs.
+
+![Screenshot 2024-06-28 225732](https://github.com/dutta-sujoy/Bengaluru-House-Price-Prediction/assets/117010765/6ba49eb0-91db-4cc2-8acd-a3d0a6803639)
